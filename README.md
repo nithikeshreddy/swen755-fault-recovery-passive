@@ -24,6 +24,12 @@ Open four terminals and run these commands:
 5.Backup shows: PROMOTED → serving on 7010.
 6.Client continues to send and receive responses with little interruption.
 
+## Libraries Used
+This project uses only standard Java libraries included in the JDK:
+1.java.net.* — networking (Socket, ServerSocket, InetSocketAddress)
+2.java.io.* — input/output (BufferedReader, InputStreamReader, PrintWriter)
+3.java.util.* — data structures and utilities (Deque, ArrayDeque, Random)
+
 
 ## How to Build
 

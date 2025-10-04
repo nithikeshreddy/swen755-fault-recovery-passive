@@ -11,10 +11,10 @@ Open four terminals and run these commands:
 4.java Client 127.0.0.1
 
 ## Ports Used
-1.7010 → Service (leader listens here)
-2.8001 → Checkpoints (Primary → Backup)
-3.9001 → Registry (Client → Monitor)
-4.9002 → Promotion (Monitor → Backup)
+1.7010 → Service (leader listens here)  
+2.8001 → Checkpoints (Primary → Backup)  
+3.9001 → Registry (Client → Monitor)  
+4.9002 → Promotion (Monitor → Backup)  
 
 ## Steps for the demo
 1.Start all four processes as above.
